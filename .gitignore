@@ -18,8 +18,7 @@ venv/
 *.safetensors
 
 # Generated data (review exceptions before publishing)
-data/processed/*
-data/splits/*
+
 
 # Generated results
 results/*
